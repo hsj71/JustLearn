@@ -1,0 +1,281 @@
+Web Development Basics
+Key points to remember
+1
+No matter the size, all computers have four basic functions: input, processing, output, and storage. 
+2
+Binary code, also known as machine code, is a system that represents all data as either 0’s or 1’s (false or true). It is the only language that a computer can understand.
+3
+Computers need hardware (the physical components) and software (the instructions) to accomplish the four functions. 
+4
+The concept of abstraction makes it possible to give a computer instruction without understanding the sheer complexity of the machine by hiding unnecessary details. 
+5
+A compiler translates human readable code into machine code by checking the syntax and translating human-readable code into binary code.   
+6
+The web development process consists of planning and designing, coding, testing, and publishing, and maintenance 
+7
+Client-side programs run on the user’s device, while server-side processes run on website servers. 
+8
+A front-end developer creates everything you see on a website, such as text and buttons.
+9
+A front-end developer primarily uses HTML, CSS, and JavaScript to build websites.   
+10
+A back-end developer writes code to power the front-end experience, including data management, and server responsiveness. 
+11
+A back-end developer uses JavaScript, Python, and Java to develop programs.
+12
+The World Wide Web is comprised of all the websites that you use. The internet is a network of computers and servers that provide the infrastructure for you to access the web.
+13
+Web developers can use cloud services to help them to build scalable, robust websites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developing Sites for the Web
+Key points to remember
+1
+The browser interprets HTML markup and reports using human-readable styles and formats when rendering an HTML document. 
+2
+Markup is wrapping text with indicators that guide what should be done with that text. 
+3
+Markups are text-based and include links to resources, making them easy to interpret and display. 
+4
+A properly structured HTML document includes the HTML tag, the head section, and the body section.
+5
+HTML attributes are additional data a tag might need to provide the parser with enough information to create the formatting the element needs. 
+6
+A semantic tag clearly describes what it does to the browser and the web developer. 
+7
+Frameworks are tools that heavily use a scripting language like JavaScript to handle data. 
+8
+Developers created the cascading style sheets (CSS) language to add styling to elements of the same class or id without needing to style every element in an HTML document. 
+9
+A style in a stylesheet has three basic parts: A selector, a node name, and a declaration block. The declaration block has one or more styles that are made up of properties and values.
+10
+A primary feature of CSS is that child elements get the style of parent elements unless they’re overridden. 
+11
+CSS mainly focuses on website presentation, and the code can program the text, style, and function of the site.
+12
+JavaScript controls interactivity on a website, such as button clicking, popups, and refreshing a web page.
+13
+JavaScript, HTML, and CSS all work together through code to display a web page and all its features.
+14
+The waterfall approach is a step-by-step action plan that flows downward like a waterfall.  
+15
+The agile approach is iterative, meaning the process is repeated often and sometimes the same steps can be repeated several times. 
+16
+Scrum is an iterative approach to implementing agile in which teams deliver work in sprints and participate in scrum ceremonies. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to HTML and CSS
+Key points to remember
+1
+Tags are made up of an opening and closing angle bracket with a tag name in the middle. Elements are pairs of tags that encapsulate or wrap-around other elements or web content. 
+2
+HTML is a declarative language, meaning it describes the rules for what a page should display and act, but not how a browser should implement those rules.
+3
+Nesting occurs when developers include some HTML elements in between other HTML elements.
+4
+An HTML element that contains another is the elements parent. The HTML elements inside the parent are the child elements.
+5
+HTML documents should include the <html> </html>, <head></head>, and <body></body> elements. 
+6
+Attributes can change the style of the element, set a property, and include metadata for use by a scripting program.
+7
+Organizing code and content on the page helps make code scannable and easier to navigate making collaboration smoother.
+8
+The best practices to help web developers stay organized are commenting, style conventions, semantic elements, and organizing the head section in a HTML document.
+9
+CSS is a collection of styles than a web developer uses to add design to web pages.
+10
+Styles can be inherited by child elements in HTML from parent elements.
+11
+External stylesheets are styles that are put in a separate file with a .css extension.
+12
+A style in a stylesheet has three basic elements: A selector, a node name, and a declaration block.
+13
+A declaration block has one or more style declarations that consist of properties and values. 
+14
+To add a style to an HTML element, web developers use the class selector, id selector, element selector, or in-line styling on the element that is to be styled.  
+15
+The CSS box model is a method of laying out a website using CSS.
+16
+CSS boxes have five main components: height, width, margins, padding, and border. Each of these have attributes that provide the web developer with fine-grained control over how the box behaves in a variety of scenarios.
+17
+Web developers follow best practices of setting doctype declarations for every HTML document, using stylesheets, using closing tags help the browser define the scope of the content, and saving and checking their work often.
+18
+IDEs are software that has a central user interface that includes all the tools a web developer needs. IDEs simplify the workflow for a developer.
+19
+IDE features include a code editor, intelligent code compilation, autosave, and integrated debugger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bringing Websites to Life with JavaScript
+Key points to remember
+1
+JavaScript is a widely used programming language for front-end and back-end web development. 
+2
+Web developers use JavaScript to create dynamic websites and respond to user-initiated events. 
+3
+JavaScript exhibits features of both object-oriented and functional programming. 
+4
+Objects have members, including constants, properties, methods, and events. 
+5
+Object-oriented programming enables code reuse, inheritance, and encapsulation. 
+6
+JavaScript uses variables to hold data or functions. 
+7
+Different languages support different data types, but all have a set of primitive types from which others are derived. 
+8
+JavaScript variables can hold any type of data and JavaScript is able to decide what kind of data it is when the program is running. 
+9
+Boolean data can have true or false values, numbers data is any data that includes number values, string data is any textual data, undefined data is a variable that does not have a value, and Null data only has the value of Null.   
+10
+Databases store data in tables, which are made up of records. 
+11
+The four key database operations are create, read, update, and delete (CRUD).
+12
+SQL is the language that developers use to manage databases and perform data operations.
+13
+Node.js is an open source, non-blocking, JavaScript-based web server.
+14
+NPM enables developers to extend Node.js and other tools using open source frameworks and libraries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Website Testing and Deployment
+Web developers test websites for user experience and software-related flaws. 
+2
+There are many different types of web tests with specific objectives and strategies, including acceptance, integration, performance, and usability. 
+3
+Web developers should consider the user interface, responsive design, code, APIs, and databases when testing a website. 
+4
+Web developers use version control to track and manage changes to software code. 
+5
+A version control system can include features such as a code repository, collaboration tools, and code deployment. 
+6
+Web developers use the continuous delivery approach to deliver updates to websites so that they can be automatically tested. They use a continuous deployment approach to deliver new builds to users on a regular basis. 
+7
+DevOps is an approach to deployment that promotes closer collaboration between the business that uses the website, website development, and IT operations. 
+8
+The DevOps lifecycle consists of six general workflows that enable web developers to release high-quality websites faster. 
+9
+Web browsers communicate with servers using the Hypertext Transfer Protocol (HTTP), which facilitates requests to load web pages using hypertext links. 
+10
+A website design is responsive when it adapts its looks to the form factor on which it displays. 
+11
+Frameworks are software packages that include code that integrates into a website and assists web developers in developing a responsive site. Frameworks also provide code libraries that can handle data management, control the user interface, and handle common tasks like creating and delivering forms.
+12
+Web developers use an app wrapper to deliver websites as downloadable apps through an app store or from a website.
+13
+Web developers can use command-line interfaces, code integration, scheduling tools, blueprinting, and cloud-based tools to automate the deployment process.
+14
+The cloud has revolutionized web development by providing services, such as hosting, replication, scalability, security, monitoring, and development tools.
+15
+A software container is a standardized package of software that contains everything that is needed to run a program. 
+
+
+
+
+
+6. 
